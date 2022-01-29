@@ -14,59 +14,59 @@ $(document).ready(() => {
         src: "images/vigor-00.jpg"
     },
     {
-        name: "Adam's Posession",
-        category: "potion",
-        description: "causes a student to be pretty allright",
-        price: 1000,
+        name: "MEDICINAL PILLS",
+        category: "MEDICAL PRODUCTS",
+        description: "AVALABLE (10% OFF)",
+        price: 200,
         src: "images/vigor-01.svg"
     },
     {
-        name: "Devil's Kiss",
-        category: "vigor",
-        description: "Throw a flaming projectile!",
-        price: 13,
+        name: "FIRST-AID KIT",
+        category: "MEDICAL PRODUCTS",
+        description: "AVALABLE (10% OFF)",
+        price: 250,
         src: "images/vigor-02.svg"
     },
     {
-        name: "Murder of Crows",
-        category: "vigor",
-        description: "A flock of crows will descend upon your enemy!",
-        price: 18,
+        name: "HAND SANITIZER",
+        category: "MEDICAL PRODUCTS",
+        description: "AVALABLE (10% OFF)",
+        price: 150,
         src: "images/vigor-03.svg"
     },
     {
-        name: "Return to Sender",
-        category: "vigor",
-        description: "reflect attacks back to enemy with this sheild!",
-        price: 19,
+        name: "SURGICAL GLOVES",
+        category: "MEDICAL PRODUCTS",
+        description: "AVALABLE (10% OFF)",
+        price: 200,
         src: "images/vigor-04.svg"
     },
     {
-        name: "Chameleon",
-        category: "plasmid",
-        description: "Invisiblity!",
-        price: 24,
+        name: "NOTEBOOKS",
+        category: "STATIONARY PRODUCTS",
+        description: "AVALABLE (10% OFF)",
+        price: 30,
         src: "images/vigor-05.svg"
     },
     {
-        name: "Glorious Goldfish",
-        category: "plasmid",
-        description: "Breathe underwater",
-        price: 22,
+        name: "PENS",
+        category: "STATIONARY PRODUCTS",
+        description: "AVALABLE (10% OFF)",
+        price: 5,
         src: "images/vigor-06.svg"
     },
     {
-        name: "Winter Blast",
-        category: "plasmid",
-        description: "Freeze a target",
-        price: 9,
+        name: "STATIONARY GIFTS",
+        category: "STATIONARY PRODUCTS",
+        description: "AVALABLE (10% OFF)",
+        price: "VARIES",
         src: "images/vigor-07.svg"
     },
     {
-        name: "Telekinesis",
-        category: "plasmid",
-        description: "Move an object with your mind!",
-        price: 18,
+        name: "WRITING PAD",
+        category: "STATIONARY PRODUCTS",
+        description: "AVALABLE (10% OFF)",
+        price: 50,
         src: "images/vigor-08.svg"
     }
     ];
